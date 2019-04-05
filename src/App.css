@@ -45,7 +45,7 @@ body{
   -webkit-animation-fill-mode: both;
           animation-fill-mode: both;
   */
-  max-width: 400px;
+  max-width: 500px;
   padding: 20px;
   background-color: #fff;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
@@ -104,4 +104,12 @@ input[type="radio"] {
 .namt {
   font-size: 30px;
   padding: 20px
+}
+
+.radioBtn {
+  margin-left: 15px;
+}
+
+.labelClass {
+  color: black;
 }
